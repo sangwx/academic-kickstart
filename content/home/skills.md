@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "Python"
   description = "90%"
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "Statistics"
+  name = "Java"
   description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "google"
+  icon_pack = "fab"
+  name = "Tensorflow"
+  description = "70%"
 
 +++
