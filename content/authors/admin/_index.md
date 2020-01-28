@@ -14,8 +14,7 @@ role: Computer Science M.S
 
 # Organizations/Affiliations
 organizations:
-- name: UT-Arlington University
-Beijing University of Posts and Telecommunications
+- name: UT-Arlington University,Beijing University of Posts and Telecommunications
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
