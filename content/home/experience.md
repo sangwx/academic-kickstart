@@ -46,12 +46,12 @@ date_format = "Jan 2006"
   * Assisted to install graphite handcart
   """
 [[experience]]
-  title = "Engineer"
-  company = "Beijing Sevenstar Electronics Company"
+  title = "Nature Club leader of the propaganda"
+  company = "Beijing University of Technology"
   company_url = ""
   location = "Beijing"
-  date_start = "2016-07-15"
-  date_end = "2016-09-12"
+  date_start = "2014-07-01"
+  date_end = "2015-06-30"
   description = """
   Responsibilities include:
   
