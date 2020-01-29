@@ -39,6 +39,8 @@ date_format = "Jan 2006"
   date_start = "2016-07-15"
   date_end = "2016-9-12"
   description = """
+  Responsibilities include:
+  
   * Assisted in assembling solar panel production equipment, ensured the equipment running normally
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
@@ -51,6 +53,8 @@ date_format = "Jan 2006"
   date_start = "2014-06-01"
   date_end = "2015-7-31"
   description = """
+  Responsibilities include:
+  
   * Assisted in assembling solar panel production equipment, ensured the equipment running normally
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
