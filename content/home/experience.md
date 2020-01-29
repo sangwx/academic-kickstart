@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   company = "Beijing University of Technology"
   company_url = ""
   location = "Beijing"
-  date_start = "2014-07-01"
+  date_start = "2014-07-11"
   date_end = "2015-06-31"
   description = """
   Responsibilities include:
