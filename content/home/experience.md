@@ -44,7 +44,6 @@ date_format = "Jan 2006"
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
   
-  
 [[experience]]
   title = "Nature Club leader"
   company = "Beijing University of Technology"
@@ -56,4 +55,5 @@ date_format = "Jan 2006"
   * Assisted in assembling solar panel production equipment, ensured the equipment running normally
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
+  """
 +++
