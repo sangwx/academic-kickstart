@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing"
   date_start = "2016-07-15"
-  date_end = "2016-9-12"
+  date_end = "2016-09-12"
   description = """
   Responsibilities include:
   
@@ -46,4 +46,18 @@ date_format = "Jan 2006"
   * Assisted to install graphite handcart
   """
  
+[[experience]]
+  title = "Nature Club leader"
+  company = "Beijing University of Technology"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2014-06-01"
+  date_end = "2015-07-31"
+  description = """
+  Responsibilities include:
+  
+  * Assisted in assembling solar panel production equipment, ensured the equipment running normally
+  * Assisted in electronic circuit design
+  * Assisted to install graphite handcart
+  """
 +++
