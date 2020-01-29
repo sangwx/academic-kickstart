@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Information extraction algorithm design
   * Joint modeling of Triplet extraction design
   * Participate in the research of Named Entity Recognition (NER) Algorithm and Realtion Classification
-  
+  """
 [[experience]]
   title = "Engineer"
   company = "Beijing Sevenstar Electronics Company"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   * Assisted in assembling solar panel production equipment, ensured the equipment running normally
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
-  
+  """
 [[experience]]
   title = "Nature Club leader"
   company = "Beijing University of Technology"
@@ -58,4 +58,5 @@ date_format = "Jan 2006"
   * Assisted in assembling solar panel production equipment, ensured the equipment running normally
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
+  """
 +++
