@@ -45,4 +45,18 @@ date_format = "Jan 2006"
   * Assisted in electronic circuit design
   * Assisted to install graphite handcart
   """
+
+[[experience]]
+  title = "Nature Club leader"
+  company = "Beijing University of Technology"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2014-07-01"
+  date_end = "2015-06-31"
+  description = """
+  Responsibilities include:
+  
+  * Organized club activities
+  * Recruited new members
+  """
 +++
