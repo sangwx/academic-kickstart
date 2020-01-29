@@ -14,5 +14,4 @@ image:
 
 ---
 
-
-"""Laboratory project. Study battery loss curves and predict whether aging. Based on battery aging data. """
+Joint modeling of Triplet extraction design
