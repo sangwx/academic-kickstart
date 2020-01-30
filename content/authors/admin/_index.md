@@ -47,7 +47,7 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: envelope
   icon_pack: fas
-  link: sangweixiao@163.com
+  link: mailto:sangweixiao@163.com
 - icon: facebook-f
   icon_pack: fab
   link: https://www.facebook.com/sang.weixiao.3
