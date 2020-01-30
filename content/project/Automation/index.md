@@ -13,5 +13,8 @@ image:
   focal_point:
 
 ---
-
-Joint modeling of Triplet extraction design
+-Design a micro spectrometer based on MCU and CPLD
+-Design circuit
+-Use Verilog to control CPLD
+-Use C++ to control MCU
+-Use QT5 to design visual interface
