@@ -34,8 +34,8 @@ subtitle = ""
      tag = "ML"
      
    [[content.filter_button]]
-     name = "Atuomation"
-     tag = "Atuomation"
+     name = "Automation"
+     tag = "Automation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
