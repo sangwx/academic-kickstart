@@ -44,7 +44,8 @@ education:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon_pack: fab
+- icon: linkedin-in
+  icon_pack: fab
   link: https://www.facebook.com/sang.weixiao.3
 - icon: linkedin-in
   icon_pack: fab
