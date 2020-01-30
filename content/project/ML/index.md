@@ -14,5 +14,8 @@ image:
 
 ---
 -The spider by Python is used to crawl 5 million news data in 10 different classes
+
 -Realizing Bayes Classification Algorithms by naïve Python
+
 -Using scikit-learn to implement classification by Logistic Regression, Support Vector Machine and Multi-Layer Perception
+
