@@ -14,6 +14,9 @@ image:
 
 ---
 -My goal is to automatically extract triples from the article.
+
 -I design Named entity recognition algorithm
+
 -I design Relational classification algorithm
+
 -Through joint modeling, I combine those two algorithm to help me to extract information
