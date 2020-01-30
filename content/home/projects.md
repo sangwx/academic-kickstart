@@ -30,8 +30,12 @@ subtitle = ""
      tag = "NLP"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Machine Learning"
+     tag = "ML"
+     
+   [[content.filter_button]]
+     name = "Atuomation"
+     tag = "Atuomation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
