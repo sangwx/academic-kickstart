@@ -39,3 +39,8 @@
    name = "LinkedIn"
    url = "https://www.linkedin.com/in/weixiao-sang-7a63ab1a1/"
    weight = 80
+   
+ [[main]]
+   name = "Note"
+   url = "files/main.py"
+   weight = 70
