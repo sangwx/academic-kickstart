@@ -43,4 +43,4 @@
  [[main]]
    name = "Note"
    url = "files/main.py"
-   weight = 70
+   weight = 90
