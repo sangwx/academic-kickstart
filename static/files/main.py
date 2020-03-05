@@ -1,3 +1,12 @@
+#Real or Not? NLP with Disaster Tweets
+#This is a note
+#https://www.kaggle.com/weixiaosang
+#Name submission.csv
+#Submitted 2 days ago
+#Wait time 0 seconds
+#Execution time 0 seconds
+#Score 0.77505
+
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 from sklearn import feature_extraction, linear_model, model_selection, preprocessing
