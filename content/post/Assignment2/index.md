@@ -1,3 +1,8 @@
+---
+date: 2020-4-1
+title: Assignment2
+---
+
 ```
 import pandas as pd
 import numpy as np
