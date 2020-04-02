@@ -52,4 +52,4 @@ print(sample_submission)
 
 Result:
 
-![png](score.png)
+![png](score.PNG)
