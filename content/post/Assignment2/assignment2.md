@@ -305,7 +305,7 @@ plt.show()
     
 
 
-![png](https://github.com/sangwx/academic-kickstart/blob/master/content/post/Assignment2/output_12_1.png)
+![png](./output_12_1.png)
 
 
 So we choose the best perfomance model:
