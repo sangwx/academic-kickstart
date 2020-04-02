@@ -233,7 +233,7 @@ plt.show()
     
 
 
-![png](output_8_1.png)
+![png](./output_8_1.png)
 
 
 Normalized euclidean distance
@@ -269,7 +269,7 @@ plt.show()
     
 
 
-![png](output_10_1.png)
+![png](./output_10_1.png)
 
 
 Cosine similarity
@@ -305,7 +305,7 @@ plt.show()
     
 
 
-![png](output_12_1.png)
+![png](./output_12_1.png)
 
 
 So we choose the best perfomance model:
