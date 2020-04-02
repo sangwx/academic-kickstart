@@ -1,5 +1,7 @@
-Assignment1
-
+---
+date: 2020-3-12
+title: Assignment1
+---
 
 ```python
 import numpy as np # linear algebra
