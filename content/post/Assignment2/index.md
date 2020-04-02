@@ -2,6 +2,9 @@
 date: 2020-4-1
 title: Assignment2
 ---
+# Assignment2
+
+{{% staticref "files/assignment2.ipynb" "newtab" %}}Download my files{{% /staticref %}}
 
 ```
 import pandas as pd
