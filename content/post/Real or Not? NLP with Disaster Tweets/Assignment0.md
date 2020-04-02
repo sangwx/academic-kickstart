@@ -1,3 +1,8 @@
+---
+date: 2020-3-11
+title: Real or Not? NLP with Disaster Tweets
+---
+
 Real or Not? NLP with Disaster Tweets
 
 Score 0.77505
