@@ -19,33 +19,33 @@
   weight = 30
  
  [[main]]
+  name = "Assignment"
+  url = "#post"
+  weight = 40
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 50
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "files/cv.pdf"
-   weight = 90
+   weight = 70
 
 [[main]]
    name = "LinkedIn"
    url = "https://www.linkedin.com/in/weixiao-sang-7a63ab1a1/"
-   weight = 90
+   weight = 80
    
  [[main]]
    name = "Note"
    url = "files/main.py"
-   weight = 100
+   weight = 90
