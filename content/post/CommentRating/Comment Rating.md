@@ -8,7 +8,7 @@ title: Comment Rating System
 **Term Project** 
 **Student ID:** 1001780927  
 **Name:** Weixiao Sang  
-**Demo Website:** https://comment-rating-system.herokuapp.com/
+**Demo Website:** https://comment-rating-system.herokuapp.com/  
 **YouTube:** https://www.youtube.com/watch?v=HJgQNCyVGXA&feature=youtu.be
 
 ## **Introduction**  
