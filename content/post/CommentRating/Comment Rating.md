@@ -10,7 +10,8 @@ title: Comment Rating System
 **Name:** Weixiao Sang  
 **Demo Website:** https://comment-rating-system.herokuapp.com/  
 **YouTube:** https://www.youtube.com/watch?v=HJgQNCyVGXA&feature=youtu.be  
-**Kaggle:** https://www.kaggle.com/weixiaosang/commentrating?scriptVersionId=33836194
+**Kaggle:** https://www.kaggle.com/weixiaosang/commentrating?scriptVersionId=33836194  
+**Github:** https://github.com/sangwx/comment-rating
 
 ## **Introduction**  
 The goal is given the review, predict the rating. We use board game geek review data.In this project, I use naive bayes to train my classifier.First step is preprocessing, preprocessing is data cleaning, In this step, we need to remove meaningless parts in comments, such as, punctuation, meaningless word.Those parts is useless for classification, they take up storage space and reduce classification accuracy.After preprocessing, I use three different trainset to train three different naive bayes classifiers.I do this because I want to use Ensemble Methods to improve the classifier performance.In the final, I analyze the classification results.
