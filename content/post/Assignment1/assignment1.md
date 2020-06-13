@@ -66,7 +66,7 @@ print(data)
     
 
 
-![png](output_3_1.png)
+![png](./output_3_1.png)
 
 
 
