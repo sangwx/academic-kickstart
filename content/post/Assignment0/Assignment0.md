@@ -52,5 +52,5 @@ print(sample_submission)
 
 Result:
 
-![png](score.PNG)
+![png](https://github.com/sangwx/academic-kickstart/blob/master/content/post/Assignment0/score.PNG)
 ![png](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
