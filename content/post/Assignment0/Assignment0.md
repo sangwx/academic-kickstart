@@ -52,5 +52,5 @@ print(sample_submission)
 
 Result:
 
-![png](score.PNG)
+![png](https://weixiaosang.netlify.app/authors/admin/avatar_hu787b7498d8f374d6f09624b4a8064e7f_191780_270x270_fill_q90_lanczos_center.jpg)
 ![png](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
