@@ -21,22 +21,30 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "80%"
-
-[[feature]]
   icon = "keyboard"
   icon_pack = "fas"
   name = "C language"
   description = "90%"
-  
+
+[[feature]]
+  icon = "facebook"
+  icon_pack = "fab"
+  name = "Pytorch"
+  description = "80%"
+
+
 [[feature]]
   icon = "google"
   icon_pack = "fab"
   name = "Tensorflow"
   description = "70%"
+
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "80%"
   
 [[feature]]
   icon = "camera"
